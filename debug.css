@@ -1,0 +1,18 @@
+.debug-7px {
+    border-radius: 7px;
+    border-style: double;
+    border-color: black;
+}.debug-5px {
+    border-radius: 5px;
+    border-style: dashed;
+    border-color: black;
+}
+.debug-3px {
+    border-radius: 3px;
+    border-style: dotted;
+    border-color: aquamarine;
+}.debug-1px {
+    border-radius: 1px;
+    border-style: solid;
+    border-color: greenyellow;
+}
